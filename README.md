@@ -1,2 +1,3 @@
-# DEEP-seq-analysis
-DEEP-seq: scalable, deterministic encapsulation and transcriptomic enrichment for rare cell profiling
+# DEEP-seq: scalable, deterministic encapsulation and transcriptomic enrichment for rare cell profiling
+
+
