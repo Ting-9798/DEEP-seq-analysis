@@ -9,6 +9,7 @@ Use STARsolo with default parameters to process the raw FASTQ data, performing c
 
 ```
 sh 0_Preprocess/run_star.sh
+```
 
 ## Step 2: Downstream analysis pipeline
 The downstream analysis scripts from the DEEP-seq paper have been uploaded to the code directories organized by figures.
