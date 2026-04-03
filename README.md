@@ -4,7 +4,13 @@ Single-cell transcriptomics has revolutionized our understanding of rare cell po
 
 <img width="2971" height="835" alt="图片1" src="https://github.com/user-attachments/assets/80803105-3919-438c-a2cc-e6413f9b47c1" />
 
-# 
+## Step 1: Raw data processing and alignment
+Use STARsolo with default parameters to process the raw FASTQ data, performing cell barcode identification and UMI counting.
+
+sh 0_Preprocess/run_star.sh
+
+## Step 2: Downstream analysis pipeline
+The downstream analysis scripts from the DEEP-seq paper have been uploaded to the code directories organized by figures.
 
 
 
